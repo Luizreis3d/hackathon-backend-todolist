@@ -1,0 +1,3 @@
+Projeto final do Hackathon Back-end CT5 - Tarde, da Estação Hack/Cel.lep, utilizando todos os conhecimentos adquiridos durante as duas semanas de aulas.
+
+"A Estação Hack é o primeiro centro para inovação criado pelo Facebook no mundo. Projetada para o público brasileiro, a iniciativa promove a formação de talentos em tecnologia, capacitar empreendedores e acelerar startups de impacto social. O Cel.Lep, parceiro da Estação Hack, oferece cursos gratuitos para capacitação de pessoas a partir de 16 anos: Design de experiência e interface de usuário, desenvolvimento front-end, back-end e mobile, e inglês instrumental para tecnologia."
