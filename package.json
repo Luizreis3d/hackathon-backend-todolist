@@ -1,0 +1,14 @@
+{
+  "name": "hackathon-backend-todolist",
+  "version": "1.0.0",
+  "description": "Projeto todo list com nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Luiz Reis",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.0"
+  }
+}
