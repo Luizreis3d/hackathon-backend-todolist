@@ -4,11 +4,14 @@
   "description": "Projeto todo list com nodeJS",
   "main": "index.js",
   "scripts": {
-    "start": "node index"
+    "start": "node index",
+    "dev": "nodemon index"
   },
   "author": "Luiz Reis",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.0"
+    "ejs": "^3.1.7",
+    "express": "^4.18.0",
+    "nodemon": "^2.0.16"
   }
 }
